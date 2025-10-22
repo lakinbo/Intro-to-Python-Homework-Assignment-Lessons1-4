@@ -52,13 +52,3 @@ except ValueError:
 
 
 
-
-
-# calculate_average ([100,200,300])
-# print(tunde)
-
-# get_letter_grade(59)
-# print(tayo)
-
-
-
